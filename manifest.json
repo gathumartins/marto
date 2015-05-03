@@ -1,0 +1,12 @@
+{
+	"manifest_version" : 2,
+	"name" : "Mobrr extension",
+	"version" : "2.0",
+	"description" : "Mobrr chrome plug in extension",
+	"browser_action" :
+		{
+			"default_icon" : "mobbr.png",
+      "default_popup": "payment.html",
+      "default_title": "Click here!"
+	}
+}
